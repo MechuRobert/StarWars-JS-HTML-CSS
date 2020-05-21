@@ -1,5 +1,5 @@
 
-
+Twórca zadania: https://github.com/Ideamotive/rekrutacja
 ### Opis
 W pliku `zadanie/index.html` znajduje się prosty formularz html. Twoim zadaniem jest dodanie plików `zadanie/css/all.css` oraz
 `zadanie/js/all.js`, które zmienią wygląd i zachowanie strony:
